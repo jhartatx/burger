@@ -1,0 +1,26 @@
+/*li {
+  list-style: none;
+}*/
+
+.myName {
+  height: 20px;
+  background-color: green;
+}
+
+h4 {
+  background-color: blue;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
